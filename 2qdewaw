@@ -24,7 +24,7 @@ ImageLabel.Image = "http://www.roblox.com/asset/?id=12232153666"
 
 game.StarterGui:SetCore("SendNotification", {Title = "SpideyX.",
 Text = "''Enjoy My script.''",
-Icon = "http://www.roblox.com/asset/?id=12232198209"
+Icon = "rbxasset://12232198209"
 Duration = 7})
 
 wait(5)
