@@ -17,7 +17,7 @@ ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Position = UDim2.new(0.01665405, 0, 0.198970839, 0)
 ImageLabel.Size = UDim2.new(0, 147, 0, 394)
-ImageLabel.Image = "http://www.roblox.com/asset/?id=12293969544"
+ImageLabel.Image = "http://www.roblox.com/asset/?id=12294018781"
 
 game.StarterGui:SetCore("SendNotification", {Title = "SpideyX.",
 Text = "''Enjoy My script.''",
