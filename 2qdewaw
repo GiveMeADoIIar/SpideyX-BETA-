@@ -11947,16 +11947,6 @@ local function OMQRQRC_fake_script() -- ShiftlockStarterGui.LocalScript
 end
 coroutine.wrap(OMQRQRC_fake_script)()
 
-
-
---[[
-contact Lost#4355 if your having issues
-must have R6 to use
-Press and hold R to shoot web
-Spider Swinging by Gilbert
---]]
- 
- 
 local lp = game.Players.LocalPlayer
 local m = lp:GetMouse()
 local c = lp.Character
